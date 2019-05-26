@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My site :3
 
-You can use the [editor on GitHub](https://github.com/EternalData/EternalData.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Some stuff here are not by me, just modified some stuff so yeah.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bot Commands
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Commands for my bot (if you have it)
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# !kick
+# !ban
+# !nick
+# !rank
+# !rerank
+# !say
+# !clear
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EternalData/EternalData.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Tool Downloads
+dnSpy: [Download](https://github.com/0xd4d/dnSpy/releases/).
+de4dot: [Download](https://ci.appveyor.com/project/0xd4d/de4dot/branch/master/artifacts).
+Modified ConfuserEx: [Download](https://anonfiles.com/I0U8Tas2n4/EternalFuscator_rar).
+### Thats all thanks for coming!
